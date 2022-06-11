@@ -15,3 +15,32 @@ cd C:\folder_name
 ```sh
 cd /folder_name
 ```
+
+## Листинг директория
+## Windows
+```sh
+dir
+```
+### MacJs/Linux
+```sh
+Is
+```
+## Удалить файл
+### Windows
+```sh
+del имя_файла
+```
+### MacJs/Linux
+```sh
+rm имя_файла
+```
+## Как выйти из VIN
+### Без сохранения
+```sh
+Esc
+:q!
+```
+### С сохранением
+```sh
+Esc:wq
+
