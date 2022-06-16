@@ -39,6 +39,9 @@
 9. Git branch name_branch - создание новой ветки
 10. Git branch -d name_branch - удаление уже слитой ветки
 8. Git checkout name_branch - переход между ветками
-9. Git checkout -b "name_branch" - создание ветки и переход в созданную ветку.
-10. 
+9. Git checkout -b "name_branch" - создание ветки и переход в созданную ветку
+10. Git log --graph - вывод структуры, истории слияния веток
+11. Git merge name_branch - вливание ветки в основную ветку
+12. Git commit -a -m - можно без Git add, добавив -а
+
 
