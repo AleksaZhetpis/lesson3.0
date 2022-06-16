@@ -38,4 +38,7 @@
 8. Git branch - команда показывает список веток в репозитории
 9. Git branch name_branch - создание новой ветки
 10. Git branch -d name_branch - удаление уже слитой ветки
+8. Git checkout name_branch - переход между ветками
+9. Git checkout -b "name_branch" - создание ветки и переход в созданную ветку.
+10. 
 
